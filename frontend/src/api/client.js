@@ -4,7 +4,7 @@
  */
 
 class ApiError extends Error {
-  const API_BASE_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
+  
   constructor(message, status, data) {
     super(message)
     this.name = 'ApiError'
@@ -12,6 +12,7 @@ class ApiError extends Error {
     this.data = data
   }
 }
+const API_BASE_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
 
 async function request(path, options = {}) {
   const config = {
