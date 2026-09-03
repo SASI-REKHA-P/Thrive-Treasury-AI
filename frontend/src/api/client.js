@@ -4,6 +4,7 @@
  */
 
 class ApiError extends Error {
+  const API_BASE_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
   constructor(message, status, data) {
     super(message)
     this.name = 'ApiError'
@@ -23,7 +24,7 @@ async function request(path, options = {}) {
 
   let response
   try {
-    response = await fetch(path, config)
+   response = await fetch(`${API_BASE_URL}${path}`, config)
   } catch (err) {
     throw new ApiError(
       `Network error communicating with backend: ${err.message}. Ensure backend is running on port 8000.`,
@@ -152,7 +153,7 @@ export async function clearAuditTrail() {
  * @param {string} fallbackFilename
  */
 async function downloadFile(endpoint, fallbackFilename) {
-  const response = await fetch(endpoint)
+  const response = await fetch(`${API_BASE_URL}${endpoint}`)
   if (!response.ok) {
     let errorDetail = `Download failed with HTTP ${response.status}`
     try {
