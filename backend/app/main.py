@@ -16,7 +16,10 @@ app = FastAPI(
 # CORS Configuration for local frontend development (http://localhost:5173)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+   allow_origins=[
+    "http://localhost:5173",
+    "https://thrive-treasury-ai-front.onrender.com",
+],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
