@@ -1,0 +1,165 @@
+/* Thrive Treasury AI - Design Tokens and Global Resets */
+
+:root {
+  /* Light Theme Palette */
+  --bg-primary: #f8fafc;
+  --bg-secondary: #f1f5f9;
+  --bg-card: rgba(255, 255, 255, 0.95);
+  --bg-card-hover: #ffffff;
+  --bg-glass: rgba(255, 255, 255, 0.85);
+  --bg-glass-border: rgba(99, 102, 241, 0.12);
+
+  --border-subtle: rgba(15, 23, 42, 0.08);
+  --border-card: rgba(99, 102, 241, 0.14);
+  --border-card-hover: rgba(99, 102, 241, 0.38);
+
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-muted: #64748b;
+  --text-inverse: #ffffff;
+
+  /* Brand Accents (Purple / Indigo) */
+  --brand-primary: #6366f1;
+  --brand-secondary: #7c3aed;
+  --brand-dark: #4f46e5;
+  --brand-light: #e0e7ff;
+  --brand-gradient: linear-gradient(135deg, #6366f1 0%, #7c3aed 100%);
+  --brand-glow: rgba(99, 102, 241, 0.16);
+
+  /* Status Colors */
+  --status-match: #059669;
+  --status-match-bg: rgba(5, 150, 105, 0.1);
+  --status-match-border: rgba(5, 150, 105, 0.25);
+
+  --status-ai: #7c3aed;
+  --status-ai-bg: rgba(124, 58, 237, 0.1);
+  --status-ai-border: rgba(124, 58, 237, 0.25);
+
+  --status-review: #d97706;
+  --status-review-bg: rgba(217, 119, 6, 0.1);
+  --status-review-border: rgba(217, 119, 6, 0.25);
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 16px -2px rgba(15, 23, 42, 0.08);
+  --shadow-lg: 0 14px 32px -6px rgba(15, 23, 42, 0.12);
+  --shadow-glow: 0 0 35px -5px rgba(99, 102, 241, 0.2);
+
+  /* Typography & Layout */
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  --max-width: 1200px;
+  --nav-height: 72px;
+  --transition-fast: 0.15s ease;
+  --transition-smooth: 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Dark Theme Palette */
+html.dark {
+  --bg-primary: #080a12;
+  --bg-secondary: #0e111d;
+  --bg-card: rgba(18, 22, 37, 0.72);
+  --bg-card-hover: rgba(25, 30, 50, 0.88);
+  --bg-glass: rgba(14, 17, 29, 0.82);
+  --bg-glass-border: rgba(129, 140, 248, 0.2);
+
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-card: rgba(129, 140, 248, 0.18);
+  --border-card-hover: rgba(129, 140, 248, 0.45);
+
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #828ea2;
+  --text-inverse: #080a12;
+
+  --brand-primary: #818cf8;
+  --brand-secondary: #a855f7;
+  --brand-dark: #6366f1;
+  --brand-light: rgba(129, 140, 248, 0.15);
+  --brand-gradient: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+  --brand-glow: rgba(129, 140, 248, 0.25);
+
+  --status-match: #10b981;
+  --status-match-bg: rgba(16, 185, 129, 0.12);
+  --status-match-border: rgba(16, 185, 129, 0.3);
+
+  --status-ai: #a855f7;
+  --status-ai-bg: rgba(168, 85, 247, 0.14);
+  --status-ai-border: rgba(168, 85, 247, 0.35);
+
+  --status-review: #f59e0b;
+  --status-review-bg: rgba(245, 158, 11, 0.12);
+  --status-review-border: rgba(245, 158, 11, 0.3);
+
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 18px -2px rgba(0, 0, 0, 0.55);
+  --shadow-lg: 0 14px 36px -4px rgba(0, 0, 0, 0.7);
+  --shadow-glow: 0 0 40px -4px rgba(129, 140, 248, 0.25);
+}
+
+/* Base Resets */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Typography Defaults */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-primary);
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+p {
+  color: var(--text-secondary);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+code, pre {
+  font-family: var(--font-mono);
+}
+
+::selection {
+  background-color: rgba(99, 102, 241, 0.25);
+  color: var(--text-primary);
+}

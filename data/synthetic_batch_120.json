@@ -1,0 +1,2022 @@
+{
+  "batch_id": "BATCH-2026-SYNTH-120",
+  "generated_at": "2026-09-02T12:00:00+00:00",
+  "description": "Operational multi-source reconciliation batch",
+  "payments": [
+    {
+      "order_id": "ORD-8492",
+      "auth_ref": "AUTH-8492-PG",
+      "gross_amount": "4200.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T09:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1001",
+      "auth_ref": "AUTH-1001-PG",
+      "gross_amount": "850.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T09:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1002",
+      "auth_ref": "AUTH-1002-PG",
+      "gross_amount": "1200.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T09:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1003",
+      "auth_ref": "AUTH-1003-PG",
+      "gross_amount": "2499.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T09:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1004",
+      "auth_ref": "AUTH-1004-PG",
+      "gross_amount": "3100.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T09:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1005",
+      "auth_ref": "AUTH-1005-PG",
+      "gross_amount": "4999.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T09:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1006",
+      "auth_ref": "AUTH-1006-PG",
+      "gross_amount": "5200.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T10:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1007",
+      "auth_ref": "AUTH-1007-PG",
+      "gross_amount": "6400.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T10:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1008",
+      "auth_ref": "AUTH-1008-PG",
+      "gross_amount": "7500.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T10:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1009",
+      "auth_ref": "AUTH-1009-PG",
+      "gross_amount": "8200.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T10:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1010",
+      "auth_ref": "AUTH-1010-PG",
+      "gross_amount": "9999.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T10:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1011",
+      "auth_ref": "AUTH-1011-PG",
+      "gross_amount": "11200.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T11:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1012",
+      "auth_ref": "AUTH-1012-PG",
+      "gross_amount": "12500.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T11:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1013",
+      "auth_ref": "AUTH-1013-PG",
+      "gross_amount": "14200.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T11:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1014",
+      "auth_ref": "AUTH-1014-PG",
+      "gross_amount": "16800.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T11:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1015",
+      "auth_ref": "AUTH-1015-PG",
+      "gross_amount": "18500.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T11:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1016",
+      "auth_ref": "AUTH-1016-PG",
+      "gross_amount": "21000.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T12:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1017",
+      "auth_ref": "AUTH-1017-PG",
+      "gross_amount": "23400.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T12:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1018",
+      "auth_ref": "AUTH-1018-PG",
+      "gross_amount": "26500.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T12:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1019",
+      "auth_ref": "AUTH-1019-PG",
+      "gross_amount": "28900.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T12:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1020",
+      "auth_ref": "AUTH-1020-PG",
+      "gross_amount": "31500.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T12:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1021",
+      "auth_ref": "AUTH-1021-PG",
+      "gross_amount": "34000.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1022",
+      "auth_ref": "AUTH-1022-PG",
+      "gross_amount": "37500.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T13:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1023",
+      "auth_ref": "AUTH-1023-PG",
+      "gross_amount": "41000.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T13:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1024",
+      "auth_ref": "AUTH-1024-PG",
+      "gross_amount": "45000.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T13:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1025",
+      "auth_ref": "AUTH-1025-PG",
+      "gross_amount": "52000.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T13:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1026",
+      "auth_ref": "AUTH-1026-PG",
+      "gross_amount": "58000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T14:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1027",
+      "auth_ref": "AUTH-1027-PG",
+      "gross_amount": "64500.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T14:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1028",
+      "auth_ref": "AUTH-1028-PG",
+      "gross_amount": "72000.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T14:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1029",
+      "auth_ref": "AUTH-1029-PG",
+      "gross_amount": "85000.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T14:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1030",
+      "auth_ref": "AUTH-1030-PG",
+      "gross_amount": "96000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T14:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1031",
+      "auth_ref": "AUTH-1031-PG",
+      "gross_amount": "105000.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T15:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1032",
+      "auth_ref": "AUTH-1032-PG",
+      "gross_amount": "118000.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T15:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1033",
+      "auth_ref": "AUTH-1033-PG",
+      "gross_amount": "499.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T15:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1034",
+      "auth_ref": "AUTH-1034-PG",
+      "gross_amount": "750.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T15:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1035",
+      "auth_ref": "AUTH-1035-PG",
+      "gross_amount": "1500.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T15:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1036",
+      "auth_ref": "AUTH-1036-PG",
+      "gross_amount": "1850.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T16:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1037",
+      "auth_ref": "AUTH-1037-PG",
+      "gross_amount": "2200.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T16:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1038",
+      "auth_ref": "AUTH-1038-PG",
+      "gross_amount": "2800.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T16:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1039",
+      "auth_ref": "AUTH-1039-PG",
+      "gross_amount": "3500.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T16:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1040",
+      "auth_ref": "AUTH-1040-PG",
+      "gross_amount": "4600.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T16:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1041",
+      "auth_ref": "AUTH-1041-PG",
+      "gross_amount": "5700.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T17:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1042",
+      "auth_ref": "AUTH-1042-PG",
+      "gross_amount": "6800.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T17:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1043",
+      "auth_ref": "AUTH-1043-PG",
+      "gross_amount": "7900.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T17:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1044",
+      "auth_ref": "AUTH-1044-PG",
+      "gross_amount": "8800.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T17:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1045",
+      "auth_ref": "AUTH-1045-PG",
+      "gross_amount": "9400.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T17:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1046",
+      "auth_ref": "AUTH-1046-PG",
+      "gross_amount": "10800.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T18:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1047",
+      "auth_ref": "AUTH-1047-PG",
+      "gross_amount": "13400.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T18:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1048",
+      "auth_ref": "AUTH-1048-PG",
+      "gross_amount": "15600.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T18:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1049",
+      "auth_ref": "AUTH-1049-PG",
+      "gross_amount": "17200.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T18:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1050",
+      "auth_ref": "AUTH-1050-PG",
+      "gross_amount": "19500.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T18:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1051",
+      "auth_ref": "AUTH-1051-PG",
+      "gross_amount": "22500.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T19:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1052",
+      "auth_ref": "AUTH-1052-PG",
+      "gross_amount": "25800.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T19:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1053",
+      "auth_ref": "AUTH-1053-PG",
+      "gross_amount": "29400.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T19:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1054",
+      "auth_ref": "AUTH-1054-PG",
+      "gross_amount": "33200.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T19:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-1055",
+      "auth_ref": "AUTH-1055-PG",
+      "gross_amount": "38000.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T19:48:00+00:00"
+    },
+    {
+      "order_id": "ORD-1056",
+      "auth_ref": "AUTH-1056-PG",
+      "gross_amount": "43500.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T20:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-1057",
+      "auth_ref": "AUTH-1057-PG",
+      "gross_amount": "48900.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-01T20:12:00+00:00"
+    },
+    {
+      "order_id": "ORD-1058",
+      "auth_ref": "AUTH-1058-PG",
+      "gross_amount": "55000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T20:24:00+00:00"
+    },
+    {
+      "order_id": "ORD-1059",
+      "auth_ref": "AUTH-1059-PG",
+      "gross_amount": "62000.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-01T20:36:00+00:00"
+    },
+    {
+      "order_id": "ORD-8493",
+      "auth_ref": "AUTH-8493-PG",
+      "gross_amount": "15000.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-01T11:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-2001",
+      "auth_ref": "AUTH-2001-PG",
+      "gross_amount": "10000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T12:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-2002",
+      "auth_ref": "AUTH-2002-PG",
+      "gross_amount": "20000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T12:15:00+00:00"
+    },
+    {
+      "order_id": "ORD-2003",
+      "auth_ref": "AUTH-2003-PG",
+      "gross_amount": "5000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T12:30:00+00:00"
+    },
+    {
+      "order_id": "ORD-2004",
+      "auth_ref": "AUTH-2004-PG",
+      "gross_amount": "25000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T12:45:00+00:00"
+    },
+    {
+      "order_id": "ORD-2005",
+      "auth_ref": "AUTH-2005-PG",
+      "gross_amount": "8000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-2006",
+      "auth_ref": "AUTH-2006-PG",
+      "gross_amount": "12500.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T13:15:00+00:00"
+    },
+    {
+      "order_id": "ORD-2007",
+      "auth_ref": "AUTH-2007-PG",
+      "gross_amount": "30000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T13:30:00+00:00"
+    },
+    {
+      "order_id": "ORD-2008",
+      "auth_ref": "AUTH-2008-PG",
+      "gross_amount": "40000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T13:45:00+00:00"
+    },
+    {
+      "order_id": "ORD-2009",
+      "auth_ref": "AUTH-2009-PG",
+      "gross_amount": "50000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T14:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-2010",
+      "auth_ref": "AUTH-2010-PG",
+      "gross_amount": "6000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T14:15:00+00:00"
+    },
+    {
+      "order_id": "ORD-2011",
+      "auth_ref": "AUTH-2011-PG",
+      "gross_amount": "18000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T14:30:00+00:00"
+    },
+    {
+      "order_id": "ORD-2012",
+      "auth_ref": "AUTH-2012-PG",
+      "gross_amount": "22000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T14:45:00+00:00"
+    },
+    {
+      "order_id": "ORD-2013",
+      "auth_ref": "AUTH-2013-PG",
+      "gross_amount": "35000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T15:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-2014",
+      "auth_ref": "AUTH-2014-PG",
+      "gross_amount": "45000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-01T15:15:00+00:00"
+    },
+    {
+      "order_id": "ORD-3001",
+      "auth_ref": "AUTH-3001-PG",
+      "gross_amount": "5200.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-02T09:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-3002",
+      "auth_ref": "AUTH-3002-PG",
+      "gross_amount": "8400.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-02T11:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-3003",
+      "auth_ref": "AUTH-3003-PG",
+      "gross_amount": "11500.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-02T13:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-3004",
+      "auth_ref": "AUTH-3004-PG",
+      "gross_amount": "14200.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-3005",
+      "auth_ref": "AUTH-3005-PG",
+      "gross_amount": "19000.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-3006",
+      "auth_ref": "AUTH-3006-PG",
+      "gross_amount": "23000.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-02T19:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-3007",
+      "auth_ref": "AUTH-3007-PG",
+      "gross_amount": "27500.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-02T21:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-3008",
+      "auth_ref": "AUTH-3008-PG",
+      "gross_amount": "31000.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-02T23:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-3009",
+      "auth_ref": "AUTH-3009-PG",
+      "gross_amount": "36500.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-03T01:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-3010",
+      "auth_ref": "AUTH-3010-PG",
+      "gross_amount": "42000.00",
+      "currency": "INR",
+      "payment_method": "NETBANKING",
+      "booking_timestamp": "2026-09-03T03:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-4001",
+      "auth_ref": "AUTH-4001-PG",
+      "gross_amount": "6500.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-03T09:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-4002",
+      "auth_ref": "AUTH-4002-PG",
+      "gross_amount": "9800.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-4003",
+      "auth_ref": "AUTH-4003-PG",
+      "gross_amount": "13200.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-03T15:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-4004",
+      "auth_ref": "AUTH-4004-PG",
+      "gross_amount": "18500.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-03T18:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-4005",
+      "auth_ref": "AUTH-4005-PG",
+      "gross_amount": "24000.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-03T21:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-4006",
+      "auth_ref": "AUTH-4006-PG",
+      "gross_amount": "32500.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-04T00:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-4007",
+      "auth_ref": "AUTH-4007-PG",
+      "gross_amount": "46000.00",
+      "currency": "INR",
+      "payment_method": "UPI",
+      "booking_timestamp": "2026-09-04T03:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5001",
+      "auth_ref": "AUTH-5001-PG",
+      "gross_amount": "1400.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-03T19:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5002",
+      "auth_ref": "AUTH-5002-PG",
+      "gross_amount": "3200.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-03T20:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5003",
+      "auth_ref": "AUTH-5003-PG",
+      "gross_amount": "5600.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-03T21:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5004",
+      "auth_ref": "AUTH-5004-PG",
+      "gross_amount": "8900.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-03T22:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5005",
+      "auth_ref": "AUTH-5005-PG",
+      "gross_amount": "12400.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-03T23:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5006",
+      "auth_ref": "AUTH-5006-PG",
+      "gross_amount": "17500.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-04T00:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5007",
+      "auth_ref": "AUTH-5007-PG",
+      "gross_amount": "23000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-04T01:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5008",
+      "auth_ref": "AUTH-5008-PG",
+      "gross_amount": "31500.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-04T02:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5009",
+      "auth_ref": "AUTH-5009-PG",
+      "gross_amount": "44000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-04T03:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-5010",
+      "auth_ref": "AUTH-5010-PG",
+      "gross_amount": "59000.00",
+      "currency": "INR",
+      "payment_method": "CREDIT_CARD",
+      "booking_timestamp": "2026-09-04T04:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-6001",
+      "auth_ref": "AUTH-6001-PG",
+      "gross_amount": "10000.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-04T09:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-6002",
+      "auth_ref": "AUTH-6002-PG",
+      "gross_amount": "25000.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-04T11:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-6003",
+      "auth_ref": "AUTH-6003-PG",
+      "gross_amount": "8500.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-04T13:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-6004",
+      "auth_ref": "AUTH-6004-PG",
+      "gross_amount": "14000.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-6005",
+      "auth_ref": "AUTH-6005-PG",
+      "gross_amount": "3000.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-04T17:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-6006",
+      "auth_ref": "AUTH-6006-PG",
+      "gross_amount": "18500.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-04T19:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-6007",
+      "auth_ref": "AUTH-6007-PG",
+      "gross_amount": "32000.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-04T21:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-6008",
+      "auth_ref": "AUTH-6008-PG",
+      "gross_amount": "7200.00",
+      "currency": "INR",
+      "payment_method": "DEBIT_CARD",
+      "booking_timestamp": "2026-09-04T23:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-7001",
+      "auth_ref": "AUTH-7001-PG",
+      "gross_amount": "250.00",
+      "currency": "EUR",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-09-05T01:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-7002",
+      "auth_ref": "AUTH-7002-PG",
+      "gross_amount": "1200.00",
+      "currency": "AUD",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-09-05T02:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-7003",
+      "auth_ref": "AUTH-7003-PG",
+      "gross_amount": "50000.00",
+      "currency": "JPY",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-09-05T03:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-7004",
+      "auth_ref": "AUTH-7004-PG",
+      "gross_amount": "800.00",
+      "currency": "SGD",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-09-05T04:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-7005",
+      "auth_ref": "AUTH-7005-PG",
+      "gross_amount": "1500.00",
+      "currency": "CHF",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-09-05T05:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-8494",
+      "auth_ref": "AUTH-8494-PG",
+      "gross_amount": "500.00",
+      "currency": "USD",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-08-30T09:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-8001",
+      "auth_ref": "AUTH-8001-PG",
+      "gross_amount": "1200.00",
+      "currency": "USD",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-08-30T10:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-8002",
+      "auth_ref": "AUTH-8002-PG",
+      "gross_amount": "400.00",
+      "currency": "GBP",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-08-30T12:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-8003",
+      "auth_ref": "AUTH-8003-PG",
+      "gross_amount": "750.00",
+      "currency": "USD",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-08-30T14:00:00+00:00"
+    },
+    {
+      "order_id": "ORD-8004",
+      "auth_ref": "AUTH-8004-PG",
+      "gross_amount": "850.00",
+      "currency": "EUR",
+      "payment_method": "WIRE",
+      "booking_timestamp": "2026-08-30T16:00:00+00:00"
+    }
+  ],
+  "settlements": [
+    {
+      "settlement_id": "SET-1001",
+      "order_ref": "ORD-8492",
+      "auth_ref": "AUTH-8492-PG",
+      "net_deposit": "4200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T13:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1002",
+      "order_ref": "ORD-1001",
+      "auth_ref": "AUTH-1001-PG",
+      "net_deposit": "850.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T11:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1003",
+      "order_ref": "ORD-1002",
+      "auth_ref": "AUTH-1002-PG",
+      "net_deposit": "1200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T12:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1004",
+      "order_ref": "ORD-1003",
+      "auth_ref": "AUTH-1003-PG",
+      "net_deposit": "2499.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T13:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1005",
+      "order_ref": "ORD-1004",
+      "auth_ref": "AUTH-1004-PG",
+      "net_deposit": "3100.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T14:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1006",
+      "order_ref": "ORD-1005",
+      "auth_ref": "AUTH-1005-PG",
+      "net_deposit": "4999.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T15:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1007",
+      "order_ref": "ORD-1006",
+      "auth_ref": "AUTH-1006-PG",
+      "net_deposit": "5200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T17:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1008",
+      "order_ref": "ORD-1007",
+      "auth_ref": "AUTH-1007-PG",
+      "net_deposit": "6400.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T12:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1009",
+      "order_ref": "ORD-1008",
+      "auth_ref": "AUTH-1008-PG",
+      "net_deposit": "7500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T13:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1010",
+      "order_ref": "ORD-1009",
+      "auth_ref": "AUTH-1009-PG",
+      "net_deposit": "8200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T14:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1011",
+      "order_ref": "ORD-1010",
+      "auth_ref": "AUTH-1010-PG",
+      "net_deposit": "9999.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T15:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1012",
+      "order_ref": "ORD-1011",
+      "auth_ref": "AUTH-1011-PG",
+      "net_deposit": "11200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T17:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1013",
+      "order_ref": "ORD-1012",
+      "auth_ref": "AUTH-1012-PG",
+      "net_deposit": "12500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T18:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1014",
+      "order_ref": "ORD-1013",
+      "auth_ref": "AUTH-1013-PG",
+      "net_deposit": "14200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T13:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1015",
+      "order_ref": "ORD-1014",
+      "auth_ref": "AUTH-1014-PG",
+      "net_deposit": "16800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T14:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1016",
+      "order_ref": "ORD-1015",
+      "auth_ref": "AUTH-1015-PG",
+      "net_deposit": "18500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T15:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1017",
+      "order_ref": "ORD-1016",
+      "auth_ref": "AUTH-1016-PG",
+      "net_deposit": "21000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T17:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1018",
+      "order_ref": "ORD-1017",
+      "auth_ref": "AUTH-1017-PG",
+      "net_deposit": "23400.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T18:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1019",
+      "order_ref": "ORD-1018",
+      "auth_ref": "AUTH-1018-PG",
+      "net_deposit": "26500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T19:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1020",
+      "order_ref": "ORD-1019",
+      "auth_ref": "AUTH-1019-PG",
+      "net_deposit": "28900.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T14:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1021",
+      "order_ref": "ORD-1020",
+      "auth_ref": "AUTH-1020-PG",
+      "net_deposit": "31500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T15:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1022",
+      "order_ref": "ORD-1021",
+      "auth_ref": "AUTH-1021-PG",
+      "net_deposit": "34000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T17:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1023",
+      "order_ref": "ORD-1022",
+      "auth_ref": "AUTH-1022-PG",
+      "net_deposit": "37500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T18:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1024",
+      "order_ref": "ORD-1023",
+      "auth_ref": "AUTH-1023-PG",
+      "net_deposit": "41000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T19:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1025",
+      "order_ref": "ORD-1024",
+      "auth_ref": "AUTH-1024-PG",
+      "net_deposit": "45000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1026",
+      "order_ref": "ORD-1025",
+      "auth_ref": "AUTH-1025-PG",
+      "net_deposit": "52000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T15:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1027",
+      "order_ref": "ORD-1026",
+      "auth_ref": "AUTH-1026-PG",
+      "net_deposit": "58000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T17:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1028",
+      "order_ref": "ORD-1027",
+      "auth_ref": "AUTH-1027-PG",
+      "net_deposit": "64500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T18:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1029",
+      "order_ref": "ORD-1028",
+      "auth_ref": "AUTH-1028-PG",
+      "net_deposit": "72000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T19:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1030",
+      "order_ref": "ORD-1029",
+      "auth_ref": "AUTH-1029-PG",
+      "net_deposit": "85000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1031",
+      "order_ref": "ORD-1030",
+      "auth_ref": "AUTH-1030-PG",
+      "net_deposit": "96000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1032",
+      "order_ref": "ORD-1031",
+      "auth_ref": "AUTH-1031-PG",
+      "net_deposit": "105000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T17:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1033",
+      "order_ref": "ORD-1032",
+      "auth_ref": "AUTH-1032-PG",
+      "net_deposit": "118000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T18:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1034",
+      "order_ref": "ORD-1033",
+      "auth_ref": "AUTH-1033-PG",
+      "net_deposit": "499.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T19:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1035",
+      "order_ref": "ORD-1034",
+      "auth_ref": "AUTH-1034-PG",
+      "net_deposit": "750.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1036",
+      "order_ref": "ORD-1035",
+      "auth_ref": "AUTH-1035-PG",
+      "net_deposit": "1500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1037",
+      "order_ref": "ORD-1036",
+      "auth_ref": "AUTH-1036-PG",
+      "net_deposit": "1850.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T23:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1038",
+      "order_ref": "ORD-1037",
+      "auth_ref": "AUTH-1037-PG",
+      "net_deposit": "2200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T18:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1039",
+      "order_ref": "ORD-1038",
+      "auth_ref": "AUTH-1038-PG",
+      "net_deposit": "2800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T19:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1040",
+      "order_ref": "ORD-1039",
+      "auth_ref": "AUTH-1039-PG",
+      "net_deposit": "3500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1041",
+      "order_ref": "ORD-1040",
+      "auth_ref": "AUTH-1040-PG",
+      "net_deposit": "4600.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1042",
+      "order_ref": "ORD-1041",
+      "auth_ref": "AUTH-1041-PG",
+      "net_deposit": "5700.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T23:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1043",
+      "order_ref": "ORD-1042",
+      "auth_ref": "AUTH-1042-PG",
+      "net_deposit": "6800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-02T00:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1044",
+      "order_ref": "ORD-1043",
+      "auth_ref": "AUTH-1043-PG",
+      "net_deposit": "7900.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T19:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1045",
+      "order_ref": "ORD-1044",
+      "auth_ref": "AUTH-1044-PG",
+      "net_deposit": "8800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1046",
+      "order_ref": "ORD-1045",
+      "auth_ref": "AUTH-1045-PG",
+      "net_deposit": "9400.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1047",
+      "order_ref": "ORD-1046",
+      "auth_ref": "AUTH-1046-PG",
+      "net_deposit": "10800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T23:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1048",
+      "order_ref": "ORD-1047",
+      "auth_ref": "AUTH-1047-PG",
+      "net_deposit": "13400.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-02T00:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1049",
+      "order_ref": "ORD-1048",
+      "auth_ref": "AUTH-1048-PG",
+      "net_deposit": "15600.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-02T01:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1050",
+      "order_ref": "ORD-1049",
+      "auth_ref": "AUTH-1049-PG",
+      "net_deposit": "17200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1051",
+      "order_ref": "ORD-1050",
+      "auth_ref": "AUTH-1050-PG",
+      "net_deposit": "19500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1052",
+      "order_ref": "ORD-1051",
+      "auth_ref": "AUTH-1051-PG",
+      "net_deposit": "22500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T23:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1053",
+      "order_ref": "ORD-1052",
+      "auth_ref": "AUTH-1052-PG",
+      "net_deposit": "25800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-02T00:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1054",
+      "order_ref": "ORD-1053",
+      "auth_ref": "AUTH-1053-PG",
+      "net_deposit": "29400.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-02T01:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1055",
+      "order_ref": "ORD-1054",
+      "auth_ref": "AUTH-1054-PG",
+      "net_deposit": "33200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-02T02:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1056",
+      "order_ref": "ORD-1055",
+      "auth_ref": "AUTH-1055-PG",
+      "net_deposit": "38000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:48:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1057",
+      "order_ref": "ORD-1056",
+      "auth_ref": "AUTH-1056-PG",
+      "net_deposit": "43500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T23:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1058",
+      "order_ref": "ORD-1057",
+      "auth_ref": "AUTH-1057-PG",
+      "net_deposit": "48900.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-02T00:12:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1059",
+      "order_ref": "ORD-1058",
+      "auth_ref": "AUTH-1058-PG",
+      "net_deposit": "55000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-02T01:24:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1060",
+      "order_ref": "ORD-1059",
+      "auth_ref": "AUTH-1059-PG",
+      "net_deposit": "62000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-02T02:36:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1061",
+      "order_ref": "ORD-8493",
+      "auth_ref": "AUTH-8493-PG",
+      "net_deposit": "14646.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T15:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1062",
+      "order_ref": "ORD-2001",
+      "auth_ref": "AUTH-2001-PG",
+      "net_deposit": "9764.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1063",
+      "order_ref": "ORD-2002",
+      "auth_ref": "AUTH-2002-PG",
+      "net_deposit": "19528.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:15:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1064",
+      "order_ref": "ORD-2003",
+      "auth_ref": "AUTH-2003-PG",
+      "net_deposit": "4882.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:30:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1065",
+      "order_ref": "ORD-2004",
+      "auth_ref": "AUTH-2004-PG",
+      "net_deposit": "24410.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T20:45:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1066",
+      "order_ref": "ORD-2005",
+      "auth_ref": "AUTH-2005-PG",
+      "net_deposit": "7811.20",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1067",
+      "order_ref": "ORD-2006",
+      "auth_ref": "AUTH-2006-PG",
+      "net_deposit": "12205.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:15:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1068",
+      "order_ref": "ORD-2007",
+      "auth_ref": "AUTH-2007-PG",
+      "net_deposit": "29292.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:30:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1069",
+      "order_ref": "ORD-2008",
+      "auth_ref": "AUTH-2008-PG",
+      "net_deposit": "39056.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T21:45:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1070",
+      "order_ref": "ORD-2009",
+      "auth_ref": "AUTH-2009-PG",
+      "net_deposit": "48820.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T22:00:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1071",
+      "order_ref": "ORD-2010",
+      "auth_ref": "AUTH-2010-PG",
+      "net_deposit": "5858.40",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T22:15:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1072",
+      "order_ref": "ORD-2011",
+      "auth_ref": "AUTH-2011-PG",
+      "net_deposit": "17575.20",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T22:30:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1073",
+      "order_ref": "ORD-2012",
+      "auth_ref": "AUTH-2012-PG",
+      "net_deposit": "21480.80",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T22:45:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1074",
+      "order_ref": "ORD-2013",
+      "auth_ref": "AUTH-2013-PG",
+      "net_deposit": "34174.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T23:00:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1075",
+      "order_ref": "ORD-2014",
+      "auth_ref": "AUTH-2014-PG",
+      "net_deposit": "43938.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T23:15:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1076",
+      "order_ref": "ORD-3001",
+      "auth_ref": "AUTH-3001-PG",
+      "net_deposit": "5200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T11:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1077",
+      "order_ref": "ORD-3002",
+      "auth_ref": "AUTH-3002-PG",
+      "net_deposit": "8400.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T19:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1078",
+      "order_ref": "ORD-3003",
+      "auth_ref": "AUTH-3003-PG",
+      "net_deposit": "11500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T05:00:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1079",
+      "order_ref": "ORD-3004",
+      "auth_ref": "AUTH-3004-PG",
+      "net_deposit": "14200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T15:00:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1080",
+      "order_ref": "ORD-3005",
+      "auth_ref": "AUTH-3005-PG",
+      "net_deposit": "19000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T21:00:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1081",
+      "order_ref": "ORD-3006",
+      "auth_ref": "AUTH-3006-PG",
+      "net_deposit": "23000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-05T05:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1082",
+      "order_ref": "ORD-3007",
+      "auth_ref": "AUTH-3007-PG",
+      "net_deposit": "27500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-05T11:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1083",
+      "order_ref": "ORD-3008",
+      "auth_ref": "AUTH-3008-PG",
+      "net_deposit": "31000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-05T17:00:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1084",
+      "order_ref": "ORD-3009",
+      "auth_ref": "AUTH-3009-PG",
+      "net_deposit": "36500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-05T23:00:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1085",
+      "order_ref": "ORD-3010",
+      "auth_ref": "AUTH-3010-PG",
+      "net_deposit": "42000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-06T02:00:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1086",
+      "order_ref": "ORD-4001",
+      "auth_ref": "AUTH-4001-PG",
+      "net_deposit": "6500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T13:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1087",
+      "order_ref": "ORD-4001",
+      "auth_ref": "AUTH-4001-PG",
+      "net_deposit": "6500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T14:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1088",
+      "order_ref": "ORD-4002",
+      "auth_ref": "AUTH-4002-PG",
+      "net_deposit": "9800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T16:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1089",
+      "order_ref": "ORD-4002",
+      "auth_ref": "AUTH-4002-PG",
+      "net_deposit": "9800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T17:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1090",
+      "order_ref": "ORD-4003",
+      "auth_ref": "AUTH-4003-PG",
+      "net_deposit": "13200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T19:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1091",
+      "order_ref": "ORD-4003",
+      "auth_ref": "AUTH-4003-PG",
+      "net_deposit": "13200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T20:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1092",
+      "order_ref": "ORD-4004",
+      "auth_ref": "AUTH-4004-PG",
+      "net_deposit": "18500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T22:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1093",
+      "order_ref": "ORD-4004",
+      "auth_ref": "AUTH-4004-PG",
+      "net_deposit": "18500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-03T23:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1094",
+      "order_ref": "ORD-4005",
+      "auth_ref": "AUTH-4005-PG",
+      "net_deposit": "24000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T01:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1095",
+      "order_ref": "ORD-4005",
+      "auth_ref": "AUTH-4005-PG",
+      "net_deposit": "24000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T02:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1096",
+      "order_ref": "ORD-4006",
+      "auth_ref": "AUTH-4006-PG",
+      "net_deposit": "32500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T04:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1097",
+      "order_ref": "ORD-4006",
+      "auth_ref": "AUTH-4006-PG",
+      "net_deposit": "32500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T05:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1098",
+      "order_ref": "ORD-4007",
+      "auth_ref": "AUTH-4007-PG",
+      "net_deposit": "46000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T07:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1099",
+      "order_ref": "ORD-4007",
+      "auth_ref": "AUTH-4007-PG",
+      "net_deposit": "46000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T08:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1100",
+      "order_ref": "ORD-6001",
+      "auth_ref": "AUTH-6001-PG",
+      "net_deposit": "9500.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T14:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1101",
+      "order_ref": "ORD-6002",
+      "auth_ref": "AUTH-6002-PG",
+      "net_deposit": "24000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T16:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1102",
+      "order_ref": "ORD-6003",
+      "auth_ref": "AUTH-6003-PG",
+      "net_deposit": "8200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T18:00:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1103",
+      "order_ref": "ORD-6004",
+      "auth_ref": "AUTH-6004-PG",
+      "net_deposit": "13200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T20:00:00+00:00",
+      "bank_account_ref": "SBI-CORP-01"
+    },
+    {
+      "settlement_id": "SET-1104",
+      "order_ref": "ORD-6005",
+      "auth_ref": "AUTH-6005-PG",
+      "net_deposit": "2800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-04T22:00:00+00:00",
+      "bank_account_ref": "KOTAK-CLR-03"
+    },
+    {
+      "settlement_id": "SET-1105",
+      "order_ref": "ORD-6006",
+      "auth_ref": "AUTH-6006-PG",
+      "net_deposit": "17900.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-05T00:00:00+00:00",
+      "bank_account_ref": "HDFC-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1106",
+      "order_ref": "ORD-6007",
+      "auth_ref": "AUTH-6007-PG",
+      "net_deposit": "31000.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-05T02:00:00+00:00",
+      "bank_account_ref": "ICICI-CLR-02"
+    },
+    {
+      "settlement_id": "SET-1107",
+      "order_ref": "ORD-6008",
+      "auth_ref": "AUTH-6008-PG",
+      "net_deposit": "6800.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-05T04:00:00+00:00",
+      "bank_account_ref": "AXIS-CLR-01"
+    },
+    {
+      "settlement_id": "SET-1108",
+      "order_ref": "ORD-7001",
+      "auth_ref": "AUTH-7001-PG",
+      "net_deposit": "250.00",
+      "settlement_currency": "GBP",
+      "clearing_timestamp": "2026-09-05T07:00:00+00:00",
+      "bank_account_ref": "CITI-GLOBAL-01"
+    },
+    {
+      "settlement_id": "SET-1109",
+      "order_ref": "ORD-7002",
+      "auth_ref": "AUTH-7002-PG",
+      "net_deposit": "1200.00",
+      "settlement_currency": "CAD",
+      "clearing_timestamp": "2026-09-05T08:00:00+00:00",
+      "bank_account_ref": "CITI-GLOBAL-01"
+    },
+    {
+      "settlement_id": "SET-1110",
+      "order_ref": "ORD-7003",
+      "auth_ref": "AUTH-7003-PG",
+      "net_deposit": "500.00",
+      "settlement_currency": "USD",
+      "clearing_timestamp": "2026-09-05T09:00:00+00:00",
+      "bank_account_ref": "CITI-GLOBAL-01"
+    },
+    {
+      "settlement_id": "SET-1111",
+      "order_ref": "ORD-7004",
+      "auth_ref": "AUTH-7004-PG",
+      "net_deposit": "800.00",
+      "settlement_currency": "HKD",
+      "clearing_timestamp": "2026-09-05T10:00:00+00:00",
+      "bank_account_ref": "CITI-GLOBAL-01"
+    },
+    {
+      "settlement_id": "SET-1112",
+      "order_ref": "ORD-7005",
+      "auth_ref": "AUTH-7005-PG",
+      "net_deposit": "1500.00",
+      "settlement_currency": "EUR",
+      "clearing_timestamp": "2026-09-05T11:00:00+00:00",
+      "bank_account_ref": "CITI-GLOBAL-01"
+    },
+    {
+      "settlement_id": "SET-1113",
+      "order_ref": "ORD-8494",
+      "auth_ref": "AUTH-8494-PG",
+      "net_deposit": "41200.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T09:00:00+00:00",
+      "bank_account_ref": "SBI-NOSTRO-01"
+    },
+    {
+      "settlement_id": "SET-1114",
+      "order_ref": "ORD-8001",
+      "auth_ref": "AUTH-8001-PG",
+      "net_deposit": "98760.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T10:00:00+00:00",
+      "bank_account_ref": "SBI-NOSTRO-01"
+    },
+    {
+      "settlement_id": "SET-1115",
+      "order_ref": "ORD-8002",
+      "auth_ref": "AUTH-8002-PG",
+      "net_deposit": "42100.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T12:00:00+00:00",
+      "bank_account_ref": "SBI-NOSTRO-01"
+    },
+    {
+      "settlement_id": "SET-1116",
+      "order_ref": "ORD-8003",
+      "auth_ref": "AUTH-8003-PG",
+      "net_deposit": "61725.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T14:00:00+00:00",
+      "bank_account_ref": "SBI-NOSTRO-01"
+    },
+    {
+      "settlement_id": "SET-1117",
+      "order_ref": "ORD-8004",
+      "auth_ref": "AUTH-8004-PG",
+      "net_deposit": "76075.00",
+      "settlement_currency": "INR",
+      "clearing_timestamp": "2026-09-01T16:00:00+00:00",
+      "bank_account_ref": "SBI-NOSTRO-01"
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "batch_id": "BATCH-2026-SYNTH-120",
+  "total_records": 120,
+  "categories_count": {
+    "EXACT_MATCH": 60,
+    "FEE_ADJUSTED_MATCH": 15,
+    "DATE_TOLERANCE_MATCH": 10,
+    "DUPLICATE_SETTLEMENT": 7,
+    "MISSING_SETTLEMENT": 10,
+    "AMOUNT_MISMATCH": 8,
+    "CURRENCY_MISMATCH": 5,
+    "CROSS_CURRENCY_AMBIGUITY": 5
+  },
+  "records": [
+    {
+      "order_id": "ORD-8492",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1001",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1002",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1003",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1004",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1005",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1006",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1007",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1008",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1009",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1010",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1011",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1012",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1013",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1014",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1015",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1016",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1017",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1018",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1019",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1020",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1021",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1022",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1023",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1024",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1025",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1026",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1027",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1028",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1029",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1030",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1031",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1032",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1033",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1034",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1035",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1036",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1037",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1038",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1039",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1040",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1041",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1042",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1043",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1044",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1045",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1046",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1047",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1048",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1049",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1050",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1051",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1052",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1053",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1054",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1055",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1056",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1057",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1058",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-1059",
+      "ground_truth_category": "EXACT_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_01_EXACT_MATCH"
+    },
+    {
+      "order_id": "ORD-8493",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2001",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2002",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2003",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2004",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2005",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2006",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2007",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2008",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2009",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2010",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2011",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2012",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2013",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-2014",
+      "ground_truth_category": "FEE_ADJUSTED_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_02_EXPECTED_FEE"
+    },
+    {
+      "order_id": "ORD-3001",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-3002",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-3003",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-3004",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-3005",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-3006",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-3007",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-3008",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-3009",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-3010",
+      "ground_truth_category": "DATE_TOLERANCE_MATCH",
+      "expected_status": "MATCHED",
+      "expected_rule": "RULE_03_DATE_TOLERANCE"
+    },
+    {
+      "order_id": "ORD-4001",
+      "ground_truth_category": "DUPLICATE_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_06_DUPLICATE_CHECK"
+    },
+    {
+      "order_id": "ORD-4002",
+      "ground_truth_category": "DUPLICATE_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_06_DUPLICATE_CHECK"
+    },
+    {
+      "order_id": "ORD-4003",
+      "ground_truth_category": "DUPLICATE_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_06_DUPLICATE_CHECK"
+    },
+    {
+      "order_id": "ORD-4004",
+      "ground_truth_category": "DUPLICATE_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_06_DUPLICATE_CHECK"
+    },
+    {
+      "order_id": "ORD-4005",
+      "ground_truth_category": "DUPLICATE_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_06_DUPLICATE_CHECK"
+    },
+    {
+      "order_id": "ORD-4006",
+      "ground_truth_category": "DUPLICATE_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_06_DUPLICATE_CHECK"
+    },
+    {
+      "order_id": "ORD-4007",
+      "ground_truth_category": "DUPLICATE_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_06_DUPLICATE_CHECK"
+    },
+    {
+      "order_id": "ORD-5001",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-5002",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-5003",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-5004",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-5005",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-5006",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-5007",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-5008",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-5009",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-5010",
+      "ground_truth_category": "MISSING_SETTLEMENT",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_05_MISSING_SETTLEMENT"
+    },
+    {
+      "order_id": "ORD-6001",
+      "ground_truth_category": "AMOUNT_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_08_AMOUNT_MISMATCH"
+    },
+    {
+      "order_id": "ORD-6002",
+      "ground_truth_category": "AMOUNT_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_08_AMOUNT_MISMATCH"
+    },
+    {
+      "order_id": "ORD-6003",
+      "ground_truth_category": "AMOUNT_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_08_AMOUNT_MISMATCH"
+    },
+    {
+      "order_id": "ORD-6004",
+      "ground_truth_category": "AMOUNT_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_08_AMOUNT_MISMATCH"
+    },
+    {
+      "order_id": "ORD-6005",
+      "ground_truth_category": "AMOUNT_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_08_AMOUNT_MISMATCH"
+    },
+    {
+      "order_id": "ORD-6006",
+      "ground_truth_category": "AMOUNT_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_08_AMOUNT_MISMATCH"
+    },
+    {
+      "order_id": "ORD-6007",
+      "ground_truth_category": "AMOUNT_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_08_AMOUNT_MISMATCH"
+    },
+    {
+      "order_id": "ORD-6008",
+      "ground_truth_category": "AMOUNT_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_08_AMOUNT_MISMATCH"
+    },
+    {
+      "order_id": "ORD-7001",
+      "ground_truth_category": "CURRENCY_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_07_CURRENCY_MISMATCH"
+    },
+    {
+      "order_id": "ORD-7002",
+      "ground_truth_category": "CURRENCY_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_07_CURRENCY_MISMATCH"
+    },
+    {
+      "order_id": "ORD-7003",
+      "ground_truth_category": "CURRENCY_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_07_CURRENCY_MISMATCH"
+    },
+    {
+      "order_id": "ORD-7004",
+      "ground_truth_category": "CURRENCY_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_07_CURRENCY_MISMATCH"
+    },
+    {
+      "order_id": "ORD-7005",
+      "ground_truth_category": "CURRENCY_MISMATCH",
+      "expected_status": "EXCEPTION",
+      "expected_rule": "RULE_07_CURRENCY_MISMATCH"
+    },
+    {
+      "order_id": "ORD-8494",
+      "ground_truth_category": "CROSS_CURRENCY_AMBIGUITY",
+      "expected_status": "PENDING_REVIEW",
+      "expected_rule": "RULE_04_CROSS_CURRENCY_CHECK"
+    },
+    {
+      "order_id": "ORD-8001",
+      "ground_truth_category": "CROSS_CURRENCY_AMBIGUITY",
+      "expected_status": "PENDING_REVIEW",
+      "expected_rule": "RULE_04_CROSS_CURRENCY_CHECK"
+    },
+    {
+      "order_id": "ORD-8002",
+      "ground_truth_category": "CROSS_CURRENCY_AMBIGUITY",
+      "expected_status": "PENDING_REVIEW",
+      "expected_rule": "RULE_04_CROSS_CURRENCY_CHECK"
+    },
+    {
+      "order_id": "ORD-8003",
+      "ground_truth_category": "CROSS_CURRENCY_AMBIGUITY",
+      "expected_status": "PENDING_REVIEW",
+      "expected_rule": "RULE_04_CROSS_CURRENCY_CHECK"
+    },
+    {
+      "order_id": "ORD-8004",
+      "ground_truth_category": "CROSS_CURRENCY_AMBIGUITY",
+      "expected_status": "PENDING_REVIEW",
+      "expected_rule": "RULE_04_CROSS_CURRENCY_CHECK"
+    }
+  ]
+}
