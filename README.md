@@ -1,6 +1,9 @@
 # Thrive Treasury AI
 
-> **Autonomous Treasury & Financial Reconciliation Agent**
+> **AI-Assisted Treasury Reconciliation & Exception Intelligence**
+
+**Live Demo:** https://thrive-treasury-ai-front.onrender.com/app  
+**Backend API:** https://thrive-treasury-ai.onrender.com/docs
 
 ---
 
@@ -10,7 +13,7 @@ In modern fintech, digital commerce, and treasury operations, payment gateways a
 
 Finance controllers are tasked with identifying variances, investigating root causes, and resolving discrepancies under strict audit and compliance standards.
 
-**Thrive Treasury AI** demonstrates a **deterministic-first** treasury reconciliation platform paired with **selective AI exception investigation** and an **interactive human controller review workflow**. Deterministic financial rules serve as the authoritative source of truth, while an AI investigation copilot provides contextual advisory briefings for ambiguous variances. Every action is captured in an immutable in-memory audit trail with instant export capabilities for banking partner dispute resolution.
+**Thrive Treasury AI** demonstrates a **deterministic-first** treasury reconciliation platform paired with **selective AI exception investigation** and an **interactive human controller review workflow**. Deterministic financial rules serve as the authoritative source of truth, while an AI investigation copilot provides contextual advisory briefings for ambiguous variances. Every action is captured in an chronological in-memory audit trail with instant export capabilities for banking partner dispute resolution.
 
 ---
 
@@ -80,7 +83,7 @@ The AI investigator operates in a strictly **advisory** capacity. AI hypotheses 
 
 ### Selective AI Routing Policy
 * **13 of 120 records** are routed for AI investigation:
-  * **8 Amount Mismatch Cases (`RULE_08_AMOUNT_MISMATCH`)**: Investigated to distinguish unaccounted merchant processing fees from genuine banking variances. High-confidence fee identifications ($confidence \ge 0.85$, variance $\le 3.0\%$) advise settlement; lower-confidence cases advise human audit.
+ * **8 Amount Mismatch Cases (`RULE_08_AMOUNT_MISMATCH`)**: Investigated to distinguish unaccounted merchant processing fees from genuine banking variances. High-confidence cases (confidence ≥ 0.85 and variance ≤ ₹500) may be auto-triaged; lower-confidence or higher-variance cases remain subject to human review. 
   * **5 Cross-Currency Cases (`RULE_04_CROSS_CURRENCY_CHECK`)**: Investigated for Nostro foreign exchange exposure and implied conversion rates. In accordance with treasury risk controls, cross-currency cases remain flagged for **mandatory human controller review**.
 * **107 records bypass AI**: Exact matches, standard fee deductions, date tolerances, missing settlements, duplicates, and currency mismatches are resolved deterministically, eliminating token overhead.
 
@@ -157,7 +160,7 @@ Finance teams can export operational data directly from the dashboard:
 
 ### Frontend
 * **React 19**: Interactive single-page interface
-* **Vite 6**: Fast frontend tooling and dev server
+* **Vite**: Frontend tooling and development server
 * **Lucide React**: Financial and operational iconography
 * **Vanilla CSS**: Responsive, tokenized styling system (no heavy UI frameworks)
 
